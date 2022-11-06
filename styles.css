@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipe-image {
+    height: auto;
+    width: 400px;
+}
+
+.recipe-name {
+    font-weight: bold;
+
+}
+/* TODO
+.recipe-ingredients {
+
+}
+
+.recipe-steps
+
+*/
